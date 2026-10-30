@@ -28,10 +28,10 @@ python -m pytest -q          # 10 testes
 
 | Integrante | Papel |
 |---|---|
-| _Nome 1_ | _ex.: domínio (Pedido, Combo) e testes_ |
-| _Nome 2_ | _ex.: serviço e adaptadores_ |
-| _Nome 3_ | _ex.: interface de terminal e vídeo_ |
-| _Nome 4_ | _ex.: README e métricas_ |
+| _Jennifer Dantas_ | _ex.: domínio (Pedido, Combo) e testes_ |
+| _Linda Sabrina_ | _ex.: serviço e adaptadores_ |
+| _Tharcylo José_ | _ex.: interface de terminal e vídeo_ |
+| _Guilherme Santana_ | _ex.: README e métricas_ |
 
 ## Decisões de stack
 
